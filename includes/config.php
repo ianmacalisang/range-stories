@@ -1,8 +1,8 @@
 <?php
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'xpertise_dev');
-define('DB_PASSWORD', 'xpertise!@#$');
-define('DB_NAME', 'xpertise_stories');
+define('DB_USERNAME', 'dbUser');
+define('DB_PASSWORD', 'userPass');
+define('DB_NAME', 'dbName');
  
 $con = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 
