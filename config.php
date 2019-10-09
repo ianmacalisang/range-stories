@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', '85.187.128.12');
+define('DB_SERVER', '85.187.128.12:3306');
 define('DB_USERNAME', 'xpertise_dev');
 define('DB_PASSWORD', 'xpertise!@#$');
 define('DB_NAME', 'xpertise_stories');
